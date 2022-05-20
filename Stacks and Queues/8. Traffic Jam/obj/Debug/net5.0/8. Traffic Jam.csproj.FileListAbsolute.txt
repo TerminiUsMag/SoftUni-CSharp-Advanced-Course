@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\refint\8. Traffic Jam.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Stacks and Queues\8. Traffic Jam\obj\Debug\net5.0\ref\8. Traffic Jam.dll
