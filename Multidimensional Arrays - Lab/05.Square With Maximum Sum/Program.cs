@@ -22,7 +22,6 @@ namespace _05.Square_With_Maximum_Sum
             }
             long maxSum = long.MinValue;
             string bestSquare = string.Empty;
-            int[] coordinatesBestSquare = new int[] { 0, 0 };
 
             for (int i = 0; i < matrix.GetLength(0) - 1; i++)
             {
@@ -40,8 +39,6 @@ namespace _05.Square_With_Maximum_Sum
                         bestSquare =
                             $"{matrix[i, j]} {matrix[i, j + 1]} \n" +
                             $"{matrix[i + 1, j]} {matrix[i + 1, j + 1]}";
-                        coordinatesBestSquare[0] = i;
-                        coordinatesBestSquare[1] = j;
                     }
 
                 }
