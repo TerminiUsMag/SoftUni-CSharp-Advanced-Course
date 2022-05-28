@@ -9,7 +9,6 @@ namespace _07.Pascal_Triangle
             int n = int.Parse(Console.ReadLine());
 
             long[][] pascal = new long[n][];
-            //pascal[0] = new int[] { n };
 
             for (int i = 0; i < n; i++)
             {
@@ -37,12 +36,18 @@ namespace _07.Pascal_Triangle
                     }
                 }
             }
+            PrintJaggedArray(pascal,n);
+        }
+        static void PrintJaggedArray(long[][] array,int rowsCount)
+        {
+            int n = rowsCount;
+
             for (int rows = 0; rows < n; rows++)
             {
-                long[] cols = pascal[rows];
+                long[] cols = array[rows];
                 for (int col = 0; col < cols.Length; col++)
                 {
-                    Console.Write(pascal[rows][col] + " ");
+                    Console.Write(array[rows][col] + " ");
                 }
                 Console.WriteLine();
             }
