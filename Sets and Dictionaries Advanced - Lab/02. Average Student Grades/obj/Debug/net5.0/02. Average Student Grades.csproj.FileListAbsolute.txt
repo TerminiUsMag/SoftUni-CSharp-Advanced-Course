@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\refint\02. Average Student Grades.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\ref\02. Average Student Grades.dll
