@@ -24,6 +24,7 @@ namespace _06.Jagged_Array_Modification
 
                 int row = int.Parse(commandTokens[1]);
                 int col = int.Parse(commandTokens[2]);
+                int value = int.Parse(commandTokens[3]);
 
                 bool valid = true;
 
@@ -35,10 +36,10 @@ namespace _06.Jagged_Array_Modification
                         switch (commandTokens[0])
                         {
                             case "add":
-
+                                jagged[row][col] += value;
                                 break;
                             case "subtract":
-
+                                jagged[row][col] -= value;
                                 break;
                         }
                     }
