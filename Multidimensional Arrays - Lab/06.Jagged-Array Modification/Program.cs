@@ -28,9 +28,9 @@ namespace _06.Jagged_Array_Modification
 
                 bool valid = true;
 
-                if (int.Parse(commandTokens[1]) < n)
+                if (row < n - 1 && row >= 0)
                 {
-                    if (int.Parse(commandTokens[2]) < jagged[int.Parse(commandTokens[1])].Length)
+                    if (col < jagged[row].Length - 1 && col >= 0)
                     {
 
                         switch (commandTokens[0])
@@ -46,6 +46,17 @@ namespace _06.Jagged_Array_Modification
                     else valid = false;
                 }
                 else valid = false;
+
+                if (!valid) Console.WriteLine("Invalid coordinates");
+            }
+            for (int rows = 0; rows < n; rows++)
+            {
+                int[] cols = jagged[rows];
+                for (int col = 0; col < cols.Length; col++)
+                {
+                    Console.Write(jagged[rows][col] + " ");
+                }
+                Console.WriteLine();
             }
         }
     }
