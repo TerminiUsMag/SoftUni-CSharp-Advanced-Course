@@ -8,4 +8,6 @@ The **"C # Advanced"** course builds on the skills of working with the **C#** la
 
 **1.** [Stacks and Queues](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Stacks%20and%20Queues)
 
-**2.** [Multidimensional Arrays - Lab](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Multidimensional%20Arrays%20-%20Lab)
+**2.** [Multidimensional Arrays](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Multidimensional%20Arrays%20-%20Lab)
+
+**3.** [Sets and Dictionaries Advanced](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Sets%20and%20Dictionaries%20Advanced%20-%20Lab)
