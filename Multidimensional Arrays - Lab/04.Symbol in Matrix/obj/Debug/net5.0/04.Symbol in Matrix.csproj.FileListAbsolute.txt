@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\bin\Debug\net5.0\04.Symbol in Matrix.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\bin\Debug\net5.0\04.Symbol in Matrix.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\bin\Debug\net5.0\04.Symbol in Matrix.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\bin\Debug\net5.0\04.Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\bin\Debug\net5.0\04.Symbol in Matrix.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\bin\Debug\net5.0\04.Symbol in Matrix.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\refint\04.Symbol in Matrix.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\04.Symbol in Matrix.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Multidimensional Arrays - Lab\04.Symbol in Matrix\obj\Debug\net5.0\ref\04.Symbol in Matrix.dll

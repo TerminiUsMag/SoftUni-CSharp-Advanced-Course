@@ -8,18 +8,17 @@ namespace _04.Symbol_in_Matrix
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            int[,] matrix = new int[n, n];
+            char[,] matrix = new char[n, n];
 
             for (int i = 0; i < n; i++)
             {
                 string characters = Console.ReadLine();
-                foreach (char c in characters)
-                {
+                
                     for (int j = 0; j < n; j++)
                     {
-                        matrix[i, j] = c;
+                        matrix[i, j] = characters[j];
                     }
-                }
+                
             }
 
             char toFind = char.Parse(Console.ReadLine());
