@@ -1,0 +1,5 @@
+C:\Users\nikol\Desktop\07.Pascal Triangle.exe
+C:\Users\nikol\Desktop\07.Pascal Triangle.dll
+C:\Users\nikol\Desktop\07.Pascal Triangle.deps.json
+C:\Users\nikol\Desktop\07.Pascal Triangle.runtimeconfig.json
+C:\Users\nikol\Desktop\07.Pascal Triangle.pdb

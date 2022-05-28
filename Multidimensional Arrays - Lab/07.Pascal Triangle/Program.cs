@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace _07.Pascal_Triangle
 {
@@ -8,18 +9,18 @@ namespace _07.Pascal_Triangle
         {
             int n = int.Parse(Console.ReadLine());
 
-            long[][] pascal = new long[n][];
+            BigInteger[][] pascal = new BigInteger[n][];
 
             for (int i = 0; i < n; i++)
             {
-                pascal[i] = new long[i + 1];
+                pascal[i] = new BigInteger[i + 1];
             }
             pascal[0][0] = 1;
 
             for (int row = 1; row < n; row++)
             {
-                long[] cols = pascal[row];
-                long maxcol = cols.Length - 1;
+                BigInteger[] cols = pascal[row];
+                BigInteger maxcol = cols.Length - 1;
                 for (int col = 0; col < cols.Length; col++)
                 {
                     if (col == maxcol)
@@ -38,13 +39,13 @@ namespace _07.Pascal_Triangle
             }
             PrintJaggedArray(pascal,n);
         }
-        static void PrintJaggedArray(long[][] array,int rowsCount)
+        static void PrintJaggedArray(BigInteger[][] array,int rowsCount)
         {
             int n = rowsCount;
 
             for (int rows = 0; rows < n; rows++)
             {
-                long[] cols = array[rows];
+                BigInteger[] cols = array[rows];
                 for (int col = 0; col < cols.Length; col++)
                 {
                     Console.Write(array[rows][col] + " ");
