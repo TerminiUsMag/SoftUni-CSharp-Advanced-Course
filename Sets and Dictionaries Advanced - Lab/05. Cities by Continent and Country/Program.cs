@@ -35,12 +35,12 @@ namespace _05._Cities_by_Continent_and_Country
 
                 map[continent][country].Add(city); 
             }
-            foreach(var continent in map)
+            foreach(var (continent,countries) in map)
             {
-                Console.WriteLine($"{continent.Key}:");
-                foreach(var country in continent.Value)
+                Console.WriteLine($"{continent}:");
+                foreach(var (country,city) in countries)
                 {
-                    Console.WriteLine($"{country.Key} -> {string.Join(", ",country.Value)}");
+                    Console.WriteLine($"{country} -> {string.Join(", ",city)}");
                 }
             }
 
