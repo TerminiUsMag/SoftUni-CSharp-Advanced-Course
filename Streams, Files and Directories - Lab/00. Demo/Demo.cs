@@ -2,9 +2,9 @@
 using System.IO;
 using System.Linq;
 
-namespace _00._Demo
+namespace Demo
 {
-    internal class Program
+    internal class Demo
     {
         static void Main(string[] args)
         {
