@@ -10,9 +10,9 @@ namespace WordCount
     {
         static void Main()
         {
-            string wordPath = @"..\..\..\words.txt";
-            string textPath = @"..\..\..\text.txt";
-            string outputPath = @"..\..\..\output.txt";
+            string wordPath = @"..\..\..\Files\words.txt";
+            string textPath = @"..\..\..\Files\text.txt";
+            string outputPath = @"..\..\..\Files\output.txt";
 
             CalculateWordCounts(wordPath, textPath, outputPath);
         }
