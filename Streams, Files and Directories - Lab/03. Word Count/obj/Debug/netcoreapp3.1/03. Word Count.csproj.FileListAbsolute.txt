@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EzRPxn5WUK1+vZYswpUMAUd5a0sQdng6zvu9F73iuyWh1vOO4QbhLeGalx7w7/VyGDpwhthNYgqKW+xJj/8Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Streams, Files and Directories - Lab\\03. Word Count\\03. Word Count.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
