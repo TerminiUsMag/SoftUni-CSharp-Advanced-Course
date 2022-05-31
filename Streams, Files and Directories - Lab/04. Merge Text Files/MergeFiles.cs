@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.IO;
+using System.Collections.Generic;
 
 namespace MergeFiles
 {
@@ -15,7 +18,28 @@ namespace MergeFiles
 
         public static void MergeTextFiles(string firstInputFilePath, string secondInputFilePath, string outputFilePath)
         {
-            // TODO: write your code here…
+            var firstInput = new StreamReader(firstInputFilePath);
+            var secondInput = new StreamReader(secondInputFilePath);
+            var output = new StreamWriter(outputFilePath);
+            using (firstInput)
+            using (secondInput)
+            using (output)
+            {
+                while (true)
+                {
+
+                    string line = firstInput.ReadLine();
+                    if (line != null)
+                        output.WriteLine(line);
+
+                    line = secondInput.ReadLine();
+                    if (line != null)
+                        output.WriteLine(line);
+
+                }
+
+            }
+
         }
     }
 }
