@@ -22,29 +22,24 @@ namespace MergeFiles
             var secondInput = new StreamReader(secondInputFilePath);
             var output = new StreamWriter(outputFilePath);
             using (firstInput)
+            using (secondInput)
+            using (output)
             {
-                using (secondInput)
+                while (true)
                 {
-                    using (output)
-                    {
-                        while (true)
-                        {
 
-                            string line1 = firstInput.ReadLine();
-                            if (line1 != null)
-                                output.WriteLine(line1);
+                    string line1 = firstInput.ReadLine();
+                    if (line1 != null)
+                        output.WriteLine(line1);
 
-                            string line2 = secondInput.ReadLine();
-                            if (line2 != null)
-                                output.WriteLine(line2);
+                    string line2 = secondInput.ReadLine();
+                    if (line2 != null)
+                        output.WriteLine(line2);
 
-                            if (line1 == null & line2 == null)
-                                break;
-                        }
-                    }
+                    if (line1 == null & line2 == null)
+                        break;
                 }
             }
-
         }
     }
 }
