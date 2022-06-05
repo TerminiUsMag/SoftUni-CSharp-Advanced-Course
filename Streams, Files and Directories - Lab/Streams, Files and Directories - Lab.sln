@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00. Demo", "00. Demo\00. De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{E4C29325-FEA2-4149-8EC4-94E66120AA06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{C70CCAB0-DEFA-42C6-ABC3-6C6AA38F4BAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{C70CCAB0-DEFA-42C6-ABC3-6C6AA38F4BAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{5F5822C1-B4F9-4E67-B871-058EF0E37A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{5F5822C1-B4F9-4E67-B871-058EF0E37A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{1AF1FBC1-CCBB-482A-8371-784BC4B332A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{1AF1FBC1-CCBB-482A-8371-784BC4B332A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{7C5D78ED-63C6-4F43-862A-0B0404223DEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1AF1FBC1-CCBB-482A-8371-784BC4B332A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AF1FBC1-CCBB-482A-8371-784BC4B332A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AF1FBC1-CCBB-482A-8371-784BC4B332A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5D78ED-63C6-4F43-862A-0B0404223DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5D78ED-63C6-4F43-862A-0B0404223DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5D78ED-63C6-4F43-862A-0B0404223DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5D78ED-63C6-4F43-862A-0B0404223DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

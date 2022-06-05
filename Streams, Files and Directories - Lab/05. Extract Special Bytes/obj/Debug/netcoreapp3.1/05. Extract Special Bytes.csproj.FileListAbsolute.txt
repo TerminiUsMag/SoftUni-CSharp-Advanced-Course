@@ -1,0 +1,5 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
