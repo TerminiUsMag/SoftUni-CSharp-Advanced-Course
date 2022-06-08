@@ -3,3 +3,12 @@ C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Direc
 C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfoInputs.cache
 C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfo.cs
 C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.genruntimeconfig.cache
