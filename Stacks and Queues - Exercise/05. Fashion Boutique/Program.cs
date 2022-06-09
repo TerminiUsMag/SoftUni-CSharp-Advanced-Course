@@ -22,9 +22,10 @@ namespace _05._Fashion_Boutique
             {
                 deliveryBox.Push(inputClothes[i]);
             }
-
+            //Declaring more variables used for the logic of the example.
             int deliveryBoxQuantity = deliveryBox.Count;
             int currRack = 0;
+            //For cicle used to calculate the number of racks used for the clothes in the delivery box.
             for (int j = 0; j < deliveryBoxQuantity; j++)
             {
                 int currClothing = deliveryBox.Pop();
@@ -45,6 +46,7 @@ namespace _05._Fashion_Boutique
                     currRack += currClothing;
                 }
             }
+            //Printing the result.
             Console.WriteLine(numberOfRacksUsed);
         }
     }
