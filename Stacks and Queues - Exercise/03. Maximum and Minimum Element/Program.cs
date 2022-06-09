@@ -38,7 +38,8 @@ namespace _03._Maximum_and_Minimum_Element
                         break;
                 }
             }
-            Console.WriteLine(String.Join(stak.ToString()));
+
+            Console.WriteLine(String.Join(", ",stak));
         }
     }
 }
