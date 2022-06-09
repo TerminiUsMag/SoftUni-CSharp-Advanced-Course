@@ -23,7 +23,7 @@ namespace _06._Songs_Queue
             {
                 playlist.Enqueue(inputSongs[i]);
             }
-            //This WHILE cicle is used to determine when the playlist is empty and stops the program when so.
+            //This WHILE loop is used to determine when the playlist is empty and stops the program when so.
             while (playlist.Count > 0)
             {
                 //String array used to store the command line split by whitepsaces.
@@ -41,10 +41,10 @@ namespace _06._Songs_Queue
                     case "Add":
                         //Declaring the song variable and setting it to null because the song is usually not one word and we have to concatenate the whole song name again.
                         string song = string.Empty;
-                        //The FOR cicle used to concatenate the song name.
+                        //The FOR loop used to concatenate the song name.
                         for (int j = 0; j < cmd.Length; j++)
                         {
-                            if (j == 0) continue;//If it's the first iteration of the cicle don't use it as an index.
+                            if (j == 0) continue;//If it's the first iteration of the loop don't use it as an index.
                             if (j + 1 == 2) song += cmd[j];//If it's the second iteration don't add white space infront of the word.
                             else song += " " + cmd[j];//If it's any other iteration add white space infront of the word to make it whole.
                         }
@@ -66,7 +66,7 @@ namespace _06._Songs_Queue
                         break;
                 }
             }
-            //When the playlist (Queue) is empty we end the WHILE cicle and print this message.
+            //When the playlist (Queue) is empty we end the WHILE loop and print this message.
             Console.WriteLine("No more songs!");
 
         }
