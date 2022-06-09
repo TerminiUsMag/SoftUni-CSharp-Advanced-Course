@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Fashion Boutique", "05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Songs Queue", "06. Songs Queue\06. Songs Queue.csproj", "{30939BF7-0A9C-439A-A5C0-6167B63DC696}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Truck Tour", "07. Truck Tour\07. Truck Tour.csproj", "{7E3C83E5-F691-48F4-815F-0F656B711EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{30939BF7-0A9C-439A-A5C0-6167B63DC696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30939BF7-0A9C-439A-A5C0-6167B63DC696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30939BF7-0A9C-439A-A5C0-6167B63DC696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3C83E5-F691-48F4-815F-0F656B711EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3C83E5-F691-48F4-815F-0F656B711EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3C83E5-F691-48F4-815F-0F656B711EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3C83E5-F691-48F4-815F-0F656B711EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
