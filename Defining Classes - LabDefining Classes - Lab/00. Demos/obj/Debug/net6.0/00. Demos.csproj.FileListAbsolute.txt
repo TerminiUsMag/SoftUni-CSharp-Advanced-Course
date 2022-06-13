@@ -1,0 +1,15 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\bin\Debug\net6.0\00. Demos.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\bin\Debug\net6.0\00. Demos.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\bin\Debug\net6.0\00. Demos.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\bin\Debug\net6.0\00. Demos.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\bin\Debug\net6.0\00. Demos.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\refint\00. Demos.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\00. Demos.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Defining Classes - LabDefining Classes - Lab\00. Demos\obj\Debug\net6.0\ref\00. Demos.dll
