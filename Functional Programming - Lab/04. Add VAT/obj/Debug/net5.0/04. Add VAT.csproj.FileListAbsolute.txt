@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\refint\04. Add VAT.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\04. Add VAT\obj\Debug\net5.0\ref\04. Add VAT.dll
