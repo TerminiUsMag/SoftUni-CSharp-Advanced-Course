@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\refint\01. Sort Even Numbers.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\ref\01. Sort Even Numbers.dll
