@@ -8,10 +8,33 @@ namespace CarManufacturer
         int year;
         string make;
         string model;
+        private double fuelQuantity;
+        private double fuelConsumption;
+
+        public double FuelConsumption
+        {
+            get { return fuelConsumption; }
+            set { fuelConsumption = value; }
+        }
 
         public int Year { get; set; }
         public string Model { get; set; }
         public string Make { get; set; }
+
+        public double FuelQuantity
+        {
+            get { return fuelQuantity; }
+            set { fuelQuantity = value; }
+        }
+
+        public void Drive(double distance)
+        {
+
+        }
+        public string WhoAmI()
+        {
+            return @$"Make: {this.Make}\nModel: {this.Model}\nYear: {this.Year}\nFuel: {this.FuelQuantity:F2}";
+        }
     }
 }
 
