@@ -7,6 +7,7 @@ namespace CarManufacturer
     {
         static void Main(string[] args)
         {
+            // TODO: define the Main() method here ...
             var car = new Car();
 
             car.Make = "VW";
@@ -16,6 +17,7 @@ namespace CarManufacturer
             car.FuelConsumption = 200;
             car.Drive(2000);
             Console.WriteLine(car.WhoAmI());
+            
         }
     }
 }

@@ -4,7 +4,7 @@ namespace CarManufacturer
 {
     public class Car
     {
-        // TODO: define the Car class members here …
+        // TODO: define the Car class members here 
         int year;
         string make;
         string model;
