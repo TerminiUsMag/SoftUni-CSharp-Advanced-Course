@@ -29,11 +29,20 @@ namespace CarManufacturer
 
         public void Drive(double distance)
         {
-
+            double distanceWithCurrQuantity = this.fuelQuantity * this.fuelConsumption;
+            if (distance <= distanceWithCurrQuantity)
+            {
+                double fuelForDistance = distance * this.fuelConsumption;
+                this.fuelQuantity -= fuelForDistance;
+            }
+            else
+            {
+                Console.WriteLine("Not enough fuel to perform this trip!");
+            }
         }
         public string WhoAmI()
         {
-            return @$"Make: {this.Make}\nModel: {this.Model}\nYear: {this.Year}\nFuel: {this.FuelQuantity:F2}";
+            return $"Make: {this.Make}\nModel: {this.Model}\nYear: {this.Year}\nFuel: {this.FuelQuantity:F2}";
         }
     }
 }
