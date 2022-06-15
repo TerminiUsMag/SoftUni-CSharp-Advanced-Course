@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\nikol\\.nuget\\packages\\": {},
@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Defining Classes - LabDefining Classes - Lab\\01. Car\\01. Car.csproj",
-      "projectName": "01. Car",
-      "projectPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Defining Classes - LabDefining Classes - Lab\\01. Car\\01. Car.csproj",
+      "projectUniqueName": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Defining Classes - LabDefining Classes - Lab\\01. Car\\01. Cars.csproj",
+      "projectName": "01. Cars",
+      "projectPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Defining Classes - LabDefining Classes - Lab\\01. Car\\01. Cars.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Defining Classes - LabDefining Classes - Lab\\01. Car\\obj\\",
       "projectStyle": "PackageReference",
@@ -29,15 +29,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
