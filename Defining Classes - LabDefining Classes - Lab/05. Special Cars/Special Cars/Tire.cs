@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Special_Cars
+namespace Special_Cars_2
 {
     public class Tire
     {
