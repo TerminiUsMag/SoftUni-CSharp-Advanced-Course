@@ -81,6 +81,15 @@ namespace CarManufacturer
         {
             return $"Make: {this.Make}\nModel: {this.Model}\nYear: {this.Year}\nFuel: {this.FuelQuantity:F2}";
         }
+        public double PressureInTires()
+        {
+            double pressureInTires = 0;
+            foreach (var tire in this.Tires)
+            {
+                pressureInTires += tire.Pressure;
+            }
+            return pressureInTires;
+        }
     }
 }
 

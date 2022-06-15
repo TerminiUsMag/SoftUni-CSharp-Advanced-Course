@@ -17,12 +17,12 @@ namespace CarManufacturer
                     .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                     .Select(double.Parse)
                     .ToArray();
-                var tires = new Tire[4];
-                {
-                    new Tire((int)tiresInfo[0], tiresInfo[1]);
-                    new Tire((int)tiresInfo[2], tiresInfo[3]);
-                    new Tire((int)tiresInfo[4], tiresInfo[5]);
-                    new Tire((int)tiresInfo[6], tiresInfo[7]);
+
+                var tires = new Tire[4]{
+                    new Tire((int)tiresInfo[0], tiresInfo[1]),
+                    new Tire((int)tiresInfo[2], tiresInfo[3]),
+                    new Tire((int)tiresInfo[4], tiresInfo[5]),
+                    new Tire((int)tiresInfo[6], tiresInfo[7]),
                 };
                 allTirePairs.Add(tires);
             }
@@ -55,17 +55,10 @@ namespace CarManufacturer
             }
             foreach (var car in cars)
             {
-                double sumOfTirePressures = 0;
-                if (car.Year >= 2017 && car.Engine.HorsePower > 330)
+                double sumOfTirePressures = car.PressureInTires();
+                if (car.Year >= 2017 && car.Engine.HorsePower > 330 && sumOfTirePressures >= 9 && sumOfTirePressures <= 10)
                 {
-                    foreach (var tire in car.Tires)
-                    {
-                        sumOfTirePressures += tire.Pressure;
-                    }
-                    if (sumOfTirePressures >= 9 && sumOfTirePressures <= 10)
-                    {
-                        car.Drive(20);
-                    }
+                    car.Drive(20);
                 }
             }
             foreach (var car in cars)
