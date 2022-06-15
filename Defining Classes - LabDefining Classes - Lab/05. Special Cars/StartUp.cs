@@ -37,6 +37,7 @@ namespace Special_Cars
                 allEngines.Add(engine);
             }
             var cars = new List<Car>();
+            var specialCars = new List<Car>();
             while ((cmd = Console.ReadLine()) != "Show special")
             {
                 var tokens = cmd.Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
@@ -59,9 +60,10 @@ namespace Special_Cars
                 if (car.Year >= 2017 && car.Engine.HorsePower > 330 && sumOfTirePressures >= 9 && sumOfTirePressures <= 10)
                 {
                     car.Drive(20);
+                    specialCars.Add(car);
                 }
             }
-            foreach (var car in cars)
+            foreach (var car in specialCars)
             {
                 Console.WriteLine($"Make: {car.Make}\nModel: {car.Model}\nYear: {car.Year}\nHorsePowers: {car.Engine.HorsePower}\nFuelQuantity: {car.FuelQuantity}");
             }
