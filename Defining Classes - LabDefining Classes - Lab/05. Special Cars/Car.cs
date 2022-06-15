@@ -66,11 +66,11 @@ namespace CarManufacturer
 
         public void Drive(double distance)
         {
-            double distanceWithCurrQuantity = this.fuelQuantity * this.fuelConsumption;
-            if (distance <= distanceWithCurrQuantity)
+            // x /100 * fuelConsumpt - fuel needed for x distance;
+            double fuelNeededForDistance = (distance / 100) * this.FuelConsumption;
+            if (fuelNeededForDistance <= FuelQuantity)
             {
-                double fuelForDistance = distance * this.fuelConsumption;
-                this.fuelQuantity -= fuelForDistance;
+                FuelQuantity -= fuelNeededForDistance;
             }
             else
             {
