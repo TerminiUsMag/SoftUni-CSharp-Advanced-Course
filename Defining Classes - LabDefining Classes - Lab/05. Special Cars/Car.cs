@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CarManufacturer
+namespace Special_Cars
 {
     public class Car
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CarManufacturer
+namespace Special_Cars
 {
     public class Tire
     {
