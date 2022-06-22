@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\refint\Implementing Linked List.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\ref\Implementing Linked List.dll
