@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net5.0\Implementing Stack and Queue.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net5.0\Implementing Stack and Queue.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net5.0\Implementing Stack and Queue.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net5.0\Implementing Stack and Queue.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net5.0\Implementing Stack and Queue.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\net5.0\Implementing Stack and Queue.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\refint\Implementing Stack and Queue.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\Implementing Stack and Queue.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\net5.0\ref\Implementing Stack and Queue.dll
