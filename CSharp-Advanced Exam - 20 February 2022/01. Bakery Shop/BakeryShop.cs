@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _01._Bakery_Shop
 {
-    internal class Program
+    internal class BakeryShop
     {
         static void Main(string[] args)
         {
