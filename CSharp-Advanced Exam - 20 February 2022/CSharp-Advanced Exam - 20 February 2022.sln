@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bakery Shop", "01. Bakery Shop\01. Bakery Shop.csproj", "{A0D6FB37-CC26-4C81-B12A-3AC70130BBC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Beaver at Work", "02. Beaver at Work\02. Beaver at Work.csproj", "{F69B08BF-2037-425F-A6C0-812A042DA9F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A0D6FB37-CC26-4C81-B12A-3AC70130BBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0D6FB37-CC26-4C81-B12A-3AC70130BBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0D6FB37-CC26-4C81-B12A-3AC70130BBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69B08BF-2037-425F-A6C0-812A042DA9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69B08BF-2037-425F-A6C0-812A042DA9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69B08BF-2037-425F-A6C0-812A042DA9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69B08BF-2037-425F-A6C0-812A042DA9F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
