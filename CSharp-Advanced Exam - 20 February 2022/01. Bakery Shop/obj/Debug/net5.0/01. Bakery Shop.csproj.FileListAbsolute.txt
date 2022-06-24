@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\net5.0\01. Bakery Shop.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\net5.0\01. Bakery Shop.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\net5.0\01. Bakery Shop.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\net5.0\01. Bakery Shop.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\net5.0\01. Bakery Shop.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\net5.0\01. Bakery Shop.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\refint\01. Bakery Shop.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\01. Bakery Shop.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp-Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\net5.0\ref\01. Bakery Shop.dll
