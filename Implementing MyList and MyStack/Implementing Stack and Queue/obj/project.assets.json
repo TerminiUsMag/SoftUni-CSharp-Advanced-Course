@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Implementing Stack and Queue\\Implementing Stack and Queue\\Implementing Stack and Queue.csproj",
-      "projectName": "Implementing Stack and Queue",
-      "projectPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Implementing Stack and Queue\\Implementing Stack and Queue\\Implementing Stack and Queue.csproj",
+      "projectUniqueName": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Implementing MyList and MyStack\\Implementing Stack and Queue\\Implementing MyList and MyStack.csproj",
+      "projectName": "Implementing MyList and MyStack",
+      "projectPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Implementing MyList and MyStack\\Implementing Stack and Queue\\Implementing MyList and MyStack.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Implementing Stack and Queue\\Implementing Stack and Queue\\obj\\",
+      "outputPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\Implementing MyList and MyStack\\Implementing Stack and Queue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
