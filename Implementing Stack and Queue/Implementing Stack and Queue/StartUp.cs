@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Implementing_Stack_and_Queue
+namespace Implementing_MyList_and_MyStack
 {
     internal class StartUp
     {

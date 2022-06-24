@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Implementing_Stack_and_Queue
+namespace Implementing_MyList_and_MyStack
 {
     public class MyList
     {
