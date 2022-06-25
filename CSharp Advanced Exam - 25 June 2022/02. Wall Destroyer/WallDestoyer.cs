@@ -50,7 +50,7 @@ namespace _02._Wall_Destroyer
                 }
                 else if (cmd == "right")
                 {
-                    if (currCol != n)
+                    if (currCol != n-1)
                     {
                         nextStepValue = wall[currRow, currCol + 1];
                         nextStepCoordinates[0] = currRow;
@@ -70,7 +70,7 @@ namespace _02._Wall_Destroyer
                 }
                 else if (cmd == "down")
                 {
-                    if (currRow != n)
+                    if (currRow != n-1)
                     {
                         nextStepValue = wall[currRow + 1, currCol];
                         nextStepCoordinates[0] = currRow + 1;
