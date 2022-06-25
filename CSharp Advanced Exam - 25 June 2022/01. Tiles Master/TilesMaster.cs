@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _01._Tiles_Master
 {
-    internal class Program
+    internal class TilesMaster
     {
         static void Main(string[] args)
         {

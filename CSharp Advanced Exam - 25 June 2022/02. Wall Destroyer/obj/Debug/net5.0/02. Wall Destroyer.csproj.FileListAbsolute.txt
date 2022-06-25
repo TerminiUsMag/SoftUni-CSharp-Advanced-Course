@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\refint\02. Wall Destroyer.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. Wall Destroyer\obj\Debug\net5.0\ref\02. Wall Destroyer.dll
