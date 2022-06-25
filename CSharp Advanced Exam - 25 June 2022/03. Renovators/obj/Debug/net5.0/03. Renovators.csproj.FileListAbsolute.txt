@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\bin\Debug\net5.0\03. Renovators.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\bin\Debug\net5.0\03. Renovators.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\bin\Debug\net5.0\03. Renovators.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\bin\Debug\net5.0\03. Renovators.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\bin\Debug\net5.0\03. Renovators.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\bin\Debug\net5.0\03. Renovators.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\refint\03. Renovators.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\03. Renovators.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\03. Renovators\obj\Debug\net5.0\ref\03. Renovators.dll
