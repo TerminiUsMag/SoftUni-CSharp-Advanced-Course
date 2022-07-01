@@ -9,9 +9,12 @@ namespace IteratorsAndComparators
             var book = new Book("Programming basics", 2010, "Nakov", "Nachev");
             var book2 = new Book("Programming Fundamentals", 2015, "Nakov", "Nachev", "Anonymous");
 
+            var library = new Library(book, book2);
 
-            Console.WriteLine(book.ToString());
-            Console.WriteLine(book2.ToString());
+            foreach(var b in library)
+            {
+                Console.WriteLine(b.ToString());
+            }
 
         }
     }
