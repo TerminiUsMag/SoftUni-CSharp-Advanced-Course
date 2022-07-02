@@ -16,4 +16,10 @@ The **"C # Advanced"** course builds on the skills of working with the **C#** la
 
 **5.** [Functional Programming](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Functional%20Programming%20-%20Lab)
 
-**5.** [Defining Classes](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Defining%20Classes%20-%20LabDefining%20Classes%20-%20Lab)
+**6.** [Defining Classes](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Defining%20Classes%20-%20LabDefining%20Classes%20-%20Lab)
+
+**7.** [Implementing MyList and MyStack](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Implementing%20MyList%20and%20MyStack)
+
+**8.** [Generics](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Generics)
+
+**9.** [Iterators and Comparators](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Iterators%20and%20Comparators%20-%20Lab)
