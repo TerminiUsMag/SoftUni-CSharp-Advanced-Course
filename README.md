@@ -11,3 +11,9 @@ The **"C # Advanced"** course builds on the skills of working with the **C#** la
 **2.** [Multidimensional Arrays](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Multidimensional%20Arrays%20-%20Lab)
 
 **3.** [Sets and Dictionaries Advanced](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Sets%20and%20Dictionaries%20Advanced%20-%20Lab)
+
+**4.** [Streams, Files and Directories](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Streams%2C%20Files%20and%20Directories%20-%20Lab)
+
+**5.** [Functional Programming](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Functional%20Programming%20-%20Lab)
+
+**5.** [Defining Classes](https://github.com/TerminiUsMag/SoftUni-CSharp-Advanced-Course/tree/main/Defining%20Classes%20-%20LabDefining%20Classes%20-%20Lab)
