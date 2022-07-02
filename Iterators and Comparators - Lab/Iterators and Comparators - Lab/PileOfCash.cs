@@ -9,6 +9,7 @@ namespace Iterators_and_Comparators___Lab
     {
         private double value;
         public Dictionary<string, int> Notes { get; set; }
+        public int totalNumberOfNotes;
 
         public PileOfCash()
         {
@@ -16,6 +17,7 @@ namespace Iterators_and_Comparators___Lab
         }
         public void AddNotes(string typeOfNote, int numberOfNotes)
         {
+            totalNumberOfNotes += numberOfNotes;
             if (!Notes.ContainsKey(typeOfNote))
             {
                 Notes.Add(typeOfNote, numberOfNotes);
