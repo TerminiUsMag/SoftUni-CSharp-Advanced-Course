@@ -6,7 +6,7 @@ using System.Text;
 
 namespace IteratorsAndComparators
 {
-    internal class Library : IEnumerable<Book>
+    public class Library : IEnumerable<Book>
     {
         private List<Book> books;
 
@@ -28,6 +28,7 @@ namespace IteratorsAndComparators
         //Short IEnumerator Implementation: 
         public IEnumerator<Book> GetEnumerator()
         {
+            this.books.Sort();
             for (int i = 0; i < books.Count; i++)
             {
                 yield return books[i];
