@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Tiles Master", "01. Tiles Master\01. Tiles Master.csproj", "{4CAB2898-BA3C-4152-ABD0-8DF82D7A4A3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Tiles Master", "01. Tiles Master\01. Tiles Master.csproj", "{4CAB2898-BA3C-4152-ABD0-8DF82D7A4A3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Wall Destroyer", "02. Wall Destroyer\02. Wall Destroyer.csproj", "{723DB512-B8B2-401F-ADA9-A8E6633D0041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Wall Destroyer", "02. Wall Destroyer\02. Wall Destroyer.csproj", "{723DB512-B8B2-401F-ADA9-A8E6633D0041}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Renovators", "03. Renovators\03. Renovators.csproj", "{A62AB46D-DC94-4BD4-AD48-71D6E0BE3EAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Renovators", "03. Renovators\Renovators.csproj", "{228C6F7D-D761-4738-BB72-109A6EB78156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SecondTry - Wall Destroyer", "02. SecondTry\02. SecondTry - Wall Destroyer.csproj", "{988EF949-E67A-4B4A-B752-4C027814969F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{A62AB46D-DC94-4BD4-AD48-71D6E0BE3EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A62AB46D-DC94-4BD4-AD48-71D6E0BE3EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A62AB46D-DC94-4BD4-AD48-71D6E0BE3EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228C6F7D-D761-4738-BB72-109A6EB78156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228C6F7D-D761-4738-BB72-109A6EB78156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228C6F7D-D761-4738-BB72-109A6EB78156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228C6F7D-D761-4738-BB72-109A6EB78156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988EF949-E67A-4B4A-B752-4C027814969F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988EF949-E67A-4B4A-B752-4C027814969F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988EF949-E67A-4B4A-B752-4C027814969F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988EF949-E67A-4B4A-B752-4C027814969F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

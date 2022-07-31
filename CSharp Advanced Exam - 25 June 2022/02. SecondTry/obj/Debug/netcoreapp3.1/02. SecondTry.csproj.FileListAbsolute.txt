@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\bin\Debug\netcoreapp3.1\02. SecondTry.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\bin\Debug\netcoreapp3.1\02. SecondTry.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\bin\Debug\netcoreapp3.1\02. SecondTry.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\bin\Debug\netcoreapp3.1\02. SecondTry.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\bin\Debug\netcoreapp3.1\02. SecondTry.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\bin\Debug\netcoreapp3.1\02. SecondTry.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-Advanced-Course\CSharp Advanced Exam - 25 June 2022\02. SecondTry\obj\Debug\netcoreapp3.1\02. SecondTry.genruntimeconfig.cache

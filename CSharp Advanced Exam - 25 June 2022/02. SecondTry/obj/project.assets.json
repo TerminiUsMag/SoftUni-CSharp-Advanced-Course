@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\CSharp Advanced Exam - 25 June 2022\\03. Renovators\\Renovators.csproj",
-      "projectName": "Renovators",
-      "projectPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\CSharp Advanced Exam - 25 June 2022\\03. Renovators\\Renovators.csproj",
+      "projectUniqueName": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\CSharp Advanced Exam - 25 June 2022\\02. SecondTry\\02. SecondTry - Wall Destroyer.csproj",
+      "projectName": "02. SecondTry - Wall Destroyer",
+      "projectPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\CSharp Advanced Exam - 25 June 2022\\02. SecondTry\\02. SecondTry - Wall Destroyer.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\CSharp Advanced Exam - 25 June 2022\\03. Renovators\\obj\\",
+      "outputPath": "C:\\Users\\nikol\\Documents\\SoftUni-CSharp-Advanced-Course\\CSharp Advanced Exam - 25 June 2022\\02. SecondTry\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

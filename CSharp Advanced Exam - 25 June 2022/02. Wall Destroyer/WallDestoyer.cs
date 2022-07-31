@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _02._Wall_Destroyer
 {
-    internal class WallDestoyer
+    public class WallDestoyer
     {
         static void Main(string[] args)
         {
