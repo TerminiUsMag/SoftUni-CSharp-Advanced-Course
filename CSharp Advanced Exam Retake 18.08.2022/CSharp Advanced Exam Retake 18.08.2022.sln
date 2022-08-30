@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaristaContest", "BaristaContest\BaristaContest.csproj", "{80916923-8265-4754-826F-21142441308C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpAMole", "HelpAMole\HelpAMole.csproj", "{F789B04F-E40A-4DFE-9685-91F2A5A11A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80916923-8265-4754-826F-21142441308C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80916923-8265-4754-826F-21142441308C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80916923-8265-4754-826F-21142441308C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80916923-8265-4754-826F-21142441308C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F789B04F-E40A-4DFE-9685-91F2A5A11A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F789B04F-E40A-4DFE-9685-91F2A5A11A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F789B04F-E40A-4DFE-9685-91F2A5A11A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F789B04F-E40A-4DFE-9685-91F2A5A11A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCB9608-3FCD-494D-8B48-C9D24AD7047D}
+	EndGlobalSection
+EndGlobal

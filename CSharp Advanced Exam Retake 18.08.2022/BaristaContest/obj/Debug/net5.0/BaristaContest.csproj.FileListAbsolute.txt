@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\bin\Debug\net5.0\BaristaContest.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\bin\Debug\net5.0\BaristaContest.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\bin\Debug\net5.0\BaristaContest.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\bin\Debug\net5.0\BaristaContest.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\bin\Debug\net5.0\BaristaContest.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\bin\Debug\net5.0\BaristaContest.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\refint\BaristaContest.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\BaristaContest.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\BaristaContest\obj\Debug\net5.0\ref\BaristaContest.dll

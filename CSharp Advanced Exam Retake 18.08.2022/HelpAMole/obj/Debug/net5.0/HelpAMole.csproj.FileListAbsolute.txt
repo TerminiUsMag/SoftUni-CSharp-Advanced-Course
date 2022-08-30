@@ -1,0 +1,16 @@
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\bin\Debug\net5.0\HelpAMole.exe
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\bin\Debug\net5.0\HelpAMole.deps.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\bin\Debug\net5.0\HelpAMole.runtimeconfig.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\bin\Debug\net5.0\HelpAMole.runtimeconfig.dev.json
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\bin\Debug\net5.0\HelpAMole.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\bin\Debug\net5.0\HelpAMole.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.AssemblyInfo.cs
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\refint\HelpAMole.dll
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.pdb
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\HelpAMole.genruntimeconfig.cache
+C:\Users\nikol\Documents\SoftUni-CSharp-OOP-June-2022\CSharp Advanced Exam Retake 18.08.2022\HelpAMole\obj\Debug\net5.0\ref\HelpAMole.dll
